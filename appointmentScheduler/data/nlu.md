@@ -1,0 +1,738 @@
+## intent:affirm
+- yeah a cheap restaurant serving international food
+- correct
+- ye
+- uh yes
+- let's do it
+- yeah
+- uh yes
+- um yes
+- yes knocking
+- that's correct
+- yes yes
+- right
+- yea
+- yes
+- yes right
+- yes and i dont care
+- right on
+- i love that
+- okay
+- ok
+- k
+- yes
+- yes
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:bye
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you noise
+- thank you good bye
+- breath thank you very much goodbye
+- thanks
+- noise thank you goodbye
+- unintelligible thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
+- goodbye
+- bye
+- good bye
+- end
+- have a good day
+- cu
+- good by
+- cee you later
+- good night
+- have a nice day
+- see you around
+- bye bye
+- see you later
+- Bye bot
+- Goodbye friend
+- bye for now
+- catch you later
+- gotta go
+- See you
+- i'm off
+- we'll speak soon
+- thanks
+
+## intent:chitchat
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- are you alright
+- are you having a good day
+- are you okay
+- how are things going
+- how are things with you?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- Is it raining?
+- Is it hot or cold?
+- Is it quite breezy outside?
+- May I ask who invented you?
+- Ahoy matey how are you?
+- Are you ok?
+- Do you feel good?
+- How are things?
+- How are you?
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- What's it like out there?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+
+## intent:create_apt
+- I'd like to request an [apt.](appointment) with doctor
+- want to set up an [appointment](appointment) with doctor
+- please make [meeting](appointment) with doctor
+- could you please create [apt](appointment) with doctor
+- could you please schedule [consultation](appointment) with doctor
+- could you please schedule [apt](appointment) with doctor
+- can you create [apt](appointment) with doctor
+- can you setup [apt.](appointment) with doctor
+- I'd like to book [meeting](appointment) with doctor
+- would you create an [apt.](appointment) with doctor
+- want to request an [apt.](appointment) with doctor
+- please request an [appointment](appointment) with doctor
+- could you please schedule [apt.](appointment) with doctor
+- please make an [consultation](appointment) with doctor
+- can you setup an [apt](appointment) with doctor
+- want to make [apt](appointment) with doctor
+- can you make an [meeting](appointment) with doctor
+- I'd like to schedule an [apt.](appointment) with doctor
+- please book [appointment](appointment) with doctor
+- want to make [apt.](appointment) with doctor
+- can you request an [apt](appointment) with doctor
+- could you please book [appointment](appointment) with doctor
+- would you make an [apt](appointment) with doctor
+- please request an [apt.](appointment) with doctor
+- I'd like to book an [meeting](appointment) with doctor
+- want to make an [apt](appointment) with doctor
+- can you request an [apt.](appointment) with doctor
+- would you schedule [meeting](appointment) with doctor
+- would you create [appointment](appointment) with doctor
+- please schedule [meeting](appointment) with doctor
+- want to request an [consultation](appointment) with doctor
+- please book an [appointment](appointment) with doctor
+- I'd like to setup [consultation](appointment) with doctor
+- can you request [consultation](appointment) with doctor
+- could you please request [appointment](appointment) with doctor
+- could you please schedule an [appointment](appointment) with doctor
+- could you please create an [appointment](appointment) with doctor
+- can you book [meeting](appointment) with doctor
+- please set up an [consultation](appointment) with doctor
+- I'd like to setup an [apt.](appointment) with doctor
+- would you setup [meeting](appointment) with doctor
+- could you please set up an [consultation](appointment) with doctor
+- could you please setup an [appointment](appointment) with doctor
+- would you setup an [meeting](appointment) with doctor
+- please request [apt.](appointment) with doctor
+- can you create an [consultation](appointment) with doctor
+- could you please setup [apt](appointment) with doctor
+- could you please book [apt.](appointment) with doctor
+- please book [consultation](appointment) with doctor
+- I'd like to request [apt](appointment) with doctor
+- would you setup [apt](appointment) with doctor
+- I'd like to request [meeting](appointment) with doctor
+- could you please setup an [consultation](appointment) with doctor
+- would you book an [meeting](appointment) with doctor
+- please set up an [appointment](appointment) with doctor
+- please book [meeting](appointment) with doctor
+- please set up an [meeting](appointment) with doctor
+- can you make an [apt](appointment) with doctor
+- would you schedule an [meeting](appointment) with doctor
+- please create [consultation](appointment) with doctor
+- can you setup [consultation](appointment) with doctor
+- can you make [apt.](appointment) with doctor
+- want to book [apt](appointment) with doctor
+- would you make [apt](appointment) with doctor
+- would you book [consultation](appointment) with doctor
+- can you create an [appointment](appointment) with doctor
+- could you please request an [apt.](appointment) with doctor
+- can you book [appointment](appointment) with doctor
+- would you book [apt](appointment) with doctor
+- want to set up an [meeting](appointment) with doctor
+- please schedule [apt](appointment) with doctor
+- want to make an [meeting](appointment) with doctor
+- would you request [consultation](appointment) with doctor
+- can you schedule an [apt.](appointment) with doctor
+- would you create [meeting](appointment) with doctor
+- want to schedule an [consultation](appointment) with doctor
+- please request [meeting](appointment) with doctor
+- would you schedule [consultation](appointment) with doctor
+- want to book an [appointment](appointment) with doctor
+- would you make [appointment](appointment) with doctor
+- want to schedule [meeting](appointment) with doctor
+- could you please request an [consultation](appointment) with doctor
+- can you setup [apt](appointment) with doctor
+- please schedule an [apt](appointment) with doctor
+- want to setup an [consultation](appointment) with doctor
+- want to create an [appointment](appointment) with doctor
+- can you make an [apt.](appointment) with doctor
+- can you make [consultation](appointment) with doctor
+- I'd like to schedule [apt](appointment) with doctor
+- please make [appointment](appointment) with doctor
+- could you please make [apt](appointment) with doctor
+- want to schedule an [apt](appointment) with doctor
+- please create [meeting](appointment) with doctor
+- can you book an [consultation](appointment) with doctor
+- I'd like to create an [consultation](appointment) with doctor
+- I'd like to setup [meeting](appointment) with doctor
+- I'd like to request [appointment](appointment) with doctor
+- I'd like to setup [apt](appointment) with doctor
+- could you please request [apt](appointment) with doctor
+- want to setup [consultation](appointment) with doctor
+- please schedule [apt.](appointment) with doctor
+- I'd like to create [meeting](appointment) with doctor
+- could you please make [consultation](appointment) with doctor
+- I'd like to setup [appointment](appointment) with doctor
+- would you set up an [meeting](appointment) with doctor
+- please book [apt](appointment) with doctor
+- would you book an [appointment](appointment) with doctor
+- can you request [appointment](appointment) with doctor
+- want to setup [apt.](appointment) with doctor
+- want to create an [meeting](appointment) with doctor
+- I'd like to make an [apt](appointment) with doctor
+- would you set up an [appointment](appointment) with doctor
+- would you request [apt](appointment) with doctor
+- want to make an [appointment](appointment) with doctor
+- could you please book [meeting](appointment) with doctor
+- please request [consultation](appointment) with doctor
+- would you schedule [apt](appointment) with doctor
+- please setup [apt.](appointment) with doctor
+- can you create an [meeting](appointment) with doctor
+- want to book [consultation](appointment) with doctor
+- please create [apt](appointment) with doctor
+- could you please schedule an [apt](appointment) with doctor
+- want to request [meeting](appointment) with doctor
+- please book an [apt.](appointment) with doctor
+- can you setup [meeting](appointment) with doctor
+- can you book an [meeting](appointment) with doctor
+- want to request [consultation](appointment) with doctor
+- could you please set up an [meeting](appointment) with doctor
+- want to schedule an [meeting](appointment) with doctor
+- please request an [meeting](appointment) with doctor
+- want to schedule [consultation](appointment) with doctor
+- could you please setup [meeting](appointment) with doctor
+- could you please book [apt](appointment) with doctor
+- please make an [meeting](appointment) with doctor
+- would you create an [apt](appointment) with doctor
+- please book an [apt](appointment) with doctor
+- can you setup an [appointment](appointment) with doctor
+- I'd like to create an [meeting](appointment) with doctor
+- please request an [apt](appointment) with doctor
+- I'd like to create [apt](appointment) with doctor
+- I'd like to request an [appointment](appointment) with doctor
+- please setup [apt](appointment) with doctor
+- please create an [appointment](appointment) with doctor
+- can you request [meeting](appointment) with doctor
+- I'd like to make [apt.](appointment) with doctor
+- want to setup an [meeting](appointment) with doctor
+- can you setup an [consultation](appointment) with doctor
+- want to book an [apt](appointment) with doctor
+- could you please schedule [meeting](appointment) with doctor
+- please setup an [appointment](appointment) with doctor
+- can you schedule an [meeting](appointment) with doctor
+- can you set up an [apt.](appointment) with doctor
+- please setup [consultation](appointment) with doctor
+- want to book an [consultation](appointment) with doctor
+- would you request [apt.](appointment) with doctor
+- please set up an [apt.](appointment) with doctor
+- please create an [consultation](appointment) with doctor
+- would you setup [appointment](appointment) with doctor
+- please make an [apt.](appointment) with doctor
+- would you create an [consultation](appointment) with doctor
+- would you request an [apt.](appointment) with doctor
+- please make [apt.](appointment) with doctor
+- could you please book an [meeting](appointment) with doctor
+- I'd like to schedule an [consultation](appointment) with doctor
+- can you request [apt](appointment) with doctor
+- I'd like to book [apt](appointment) with doctor
+- could you please request an [meeting](appointment) with doctor
+- want to setup [meeting](appointment) with doctor
+- want to set up an [consultation](appointment) with doctor
+- want to setup an [apt](appointment) with doctor
+- I'd like to set up an [apt](appointment) with doctor
+- I'd like to setup [apt.](appointment) with doctor
+- could you please make an [meeting](appointment) with doctor
+- would you schedule an [apt](appointment) with doctor
+- can you schedule [consultation](appointment) with doctor
+- can you schedule an [appointment](appointment) with doctor
+- would you setup an [consultation](appointment) with doctor
+- could you please setup [consultation](appointment) with doctor
+- can you set up an [meeting](appointment) with doctor
+- would you request [meeting](appointment) with doctor
+- I'd like to request an [apt](appointment) with doctor
+- I'd like to book an [consultation](appointment) with doctor
+- want to setup [appointment](appointment) with doctor
+- I'd like to make an [appointment](appointment) with doctor
+- I'd like to book [apt.](appointment) with doctor
+- can you set up an [consultation](appointment) with doctor
+- would you set up an [apt](appointment) with doctor
+- I'd like to create an [apt.](appointment) with doctor
+- I'd like to schedule [appointment](appointment) with doctor
+- want to book [meeting](appointment) with doctor
+- can you schedule [meeting](appointment) with doctor
+- I'd like to make an [meeting](appointment) with doctor
+- would you create an [appointment](appointment) with doctor
+- want to setup [apt](appointment) with doctor
+- can you book an [apt.](appointment) with doctor
+- I'd like to book an [apt.](appointment) with doctor
+- want to request [apt](appointment) with doctor
+- please book an [consultation](appointment) with doctor
+- could you please schedule an [meeting](appointment) with doctor
+- can you book an [appointment](appointment) with doctor
+- book a [appointment](appointment)
+- book an [appointment](appointment) with doctor
+- want an [appointment](appointment) with doctor
+- appointment
+
+## intent:deny
+- no
+- no sir
+- not ok
+- not at all
+- non
+- n
+- nonsense
+- no new selection
+- no thanks
+- no thank you
+- uh no
+- breath no
+- do you have something else
+- no this does not work for me
+
+## intent:greet
+- Hello
+- hey
+- hey there
+- hi
+- good afternoon
+- good morning
+- good evening
+- aloha
+- ay boi
+- yo
+- sup
+- morning
+- hiya
+- are you around?
+- whatsup
+- wass up
+- good day
+- greetings
+- are you there
+- yo Mr. Bot
+- Hey bot
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hello robot
+- hello is anybody there
+- Hi
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- hi
+- hi
+- hi
+
+## intent:inform
+- at [Hubli](city)
+- [Hubli](city)
+- [Dharwar](city)
+- at [Dharwad](city)
+- to [Dharwad](city)
+- in [Dharwad](city)
+- [Hubli](city)
+- in [Hubli](city)
+- [Dharwar](city)
+- at [Dharwad](city)
+- [Hubli](city)
+- [hubli](city)
+- [hubli](city)
+- [Saturday](date)
+- on [Tuesday](date)
+- on [Wednesday](date)
+- [Tuesday](date)
+- [Wednesday](date)
+- [Sunday](date)
+- on [Monday](date)
+- on [Saturday](date)
+- [Monday](date)
+- [Friday](date)
+- on [Friday](date)
+- on [Thursday](date)
+- on [Sunday](date)
+- [Thursday](date)
+- [Tuesday](date)
+- on [saturday](date)
+- [coming monday](date)
+- [next monday](date)
+- on [Monday](date) [morning](time)
+- on [Saturday](date) [night](time)
+- [Monday](date)
+- [Friday](date) [noon](time)
+- [sunday](date) [afternoon](time)
+- [morning](time)
+- [evening](time)
+- [afternoon](time)
+- [noon](time)
+- [midnight](time)
+- on [Friday](date)
+- on [Thursday](date)
+- on [Sunday](date)
+- [Thursday](date)
+- [12:00 am](time)
+- [3 am](time)
+- [4 pm](time)
+- [07:00 pm](time)
+- [09:00 am](time)
+- [09:00 pm](time)
+- at [09:00 am](time)
+- at [12:00 am](time)
+- [11:00 am](time)
+- at [01:00 pm](time)
+- [06:00 pm](time)
+- [10:00 am](time)
+- [upcoming Monday](date) [noon](time)
+- [7/17](date) [3-4 pm](time)
+- [tomorrow](date)
+- [tomorrow](date) [noon](time)
+- [tomorrow](date) [night](time)
+- [tomorrow](date) [morning](time)
+- [day after tomorrow](date)
+- [day after tomorrow](date) [morning](time)
+- [day after tomorrow](date) [noon](time)
+- [July 17](date) at [3 ](time)
+- [Oct 15](date) at [4](time)
+- [Jan 1st](date)
+- [Dec 12th](date)
+- [2019-10-15](date)
+- [7/17/18](date) [3:00 p.m](time)
+- [3PM](time) on [July 17](date)
+- [today](date) [6 pm](time)
+- [coming monday](date) [noon](time)
+- with [Dr.R Krishna prasad](dr) on [Tuesday](date)
+- [vasan Eye Care hospital](dr) on [Saturday](date) at [11:00 am](time)
+- [Dr. A B Jadhav](dr) on [Saturday](date) at [06:00 pm](time)
+- [Dr. A B Jadhav](dr) on [Monday](date) at [07:00 pm](time)
+- [Dr.Neeta K Sambrani](dr) on [Tuesday](date) at [09:00 pm](time)
+- to [Manvi Multispeciality Hospital](dr) on [Monday](date) at [08:00 pm](time)
+- [Dr.Girish K Nadiger](dr) on [Friday](date) at [07:00 pm](time)
+- [Jaya Priya Hospital](dr) on [Saturday](date) at [07:00 pm](time)
+- [Dr.Neeta K Sambrani](dr) on [Sunday](date) at [11:00 am](time)
+- [Dr.R Krishna prasad](dr) on [Saturday](date) at [08:00 pm](time)
+- [Jaya Priya Hospital](dr) on [Saturday](date)
+- [Jaya Priya Hospital](dr) on [Friday](date) at [07:00 pm](time)
+- [Dr.Neeta K Sambrani](dr) on [Saturday](date) at [06:00 pm](time)
+- to [Jaya Priya Hospital](dr) on [Tuesday](date) at [10:00 am](time)
+- to [Dr. Sanjeev Kulkarni](dr) on [Friday](date) at [08:00 pm](time)
+- to [Dr.Neeta K Sambrani](dr) on [Tuesday](date) at [08:00 pm](time)
+- to [Dr. A B Jadhav](dr) on [Wednesday](date) at [08:00 pm](time)
+- to [M M Joshi Eye Institute](dr) on [Friday](date) at [12:00 am](time)
+- [Dr. A B Jadhav](dr) on [Wednesday](date)
+- [Dr. Sanjeev Kulkarni](dr) on [Wednesday](date) at [08:00 pm](time)
+- [Dr.Neeta K Sambrani](dr) on [Friday](date) at [07:00 pm](time)
+- to [Dr. Sanjeev Kulkarni](dr) on [Tuesday](date) at [09:00 am](time)
+- [M M Joshi Eye Institute](dr) on [Sunday](date) at [07:00 pm](time)
+- to [Dr.Neeta K Sambrani](dr) on [Friday](date) at [08:00 pm](time)
+- to [Dr.Neeta K Sambrani](dr) on [Wednesday](date) at [11:00 am](time)
+- [Dr.R Krishna prasad](dr) on [Thursday](date) at [07:00 pm](time)
+- with [M M Joshi Eye Institute](dr) on [Saturday](date)
+- [vasan Eye Care hospital](dr) on [Tuesday](date) at [08:00 pm](time)
+- [Dr. A B Jadhav](dr) on [Monday](date) at [12:00 am](time)
+- [Dr.Girish K Nadiger](dr) on [Friday](date) at [09:00 pm](time)
+- to [Jaya Priya Hospital](dr) on [Wednesday](date) at [09:00 am](time)
+- to [Dr.Girish K Nadiger](dr) on [Monday](date) at [10:00 am](time)
+- [M M Joshi Eye Institute](dr) on [Sunday](date) at [12:00 am](time)
+- to [Dr.Girish K Nadiger](dr) on [Saturday](date) at [08:00 pm](time)
+- to [Dr. Tavargeri S k](dr) on [Monday](date) at [09:00 pm](time)
+- with [Dr. Tavargeri S k](dr) on [Sunday](date)
+- [M M Joshi Eye Institute](dr) on [Tuesday](date) at [06:00 pm](time)
+- to [Jaya Priya Hospital](dr) on [Tuesday](date) at [06:00 pm](time)
+- [Dr. Sanjeev Kulkarni](dr) on [Friday](date) at [11:00 am](time)
+- to [Dr.Girish K Nadiger](dr) on [Tuesday](date) at [06:00 pm](time)
+- [Dr. A B Jadhav](dr) on [Wednesday](date) at [06:00 pm](time)
+- to [Dr.Neeta K Sambrani](dr) on [Thursday](date) at [12:00 am](time)
+- to [Dr.R Krishna prasad](dr) on [Sunday](date) at [09:00 pm](time)
+- [Dr. B R Jayasudha](dr) on [Wednesday](date)
+- to [Dr. B R Jayasudha](dr) on [Friday](date) at [07:00 pm](time)
+- to [Jaya Priya Hospital](dr) on [Monday](date) at [11:00 am](time)
+- to [Dr. B R Jayasudha](dr) on [Thursday](date) at [09:00 pm](time)
+- to [Dr.Girish K Nadiger](dr) on [Tuesday](date) at [10:00 am](time)
+- to [Dr.Neeta K Sambrani](dr) on [Tuesday](date) at [09:00 pm](time)
+- to [Dr.R Krishna prasad](dr) on [Monday](date) at [11:00 am](time)
+- to [Dr. Tavargeri S k](dr) on [Thursday](date) at [11:00 am](time)
+- to [Dr. A B Jadhav](dr) on [Saturday](date) at [12:00 am](time)
+- [Jaya Priya Hospital](dr) on [Monday](date) at [11:00 am](time)
+- with [Jaya Priya Hospital](dr) on [Tuesday](date)
+- to [Dr.R Krishna prasad](dr) on [Monday](date) at [12:00 am](time)
+- to [Dr. Tavargeri S k](dr) on [Wednesday](date) at [09:00 pm](time)
+- to [Dr. Sanjeev Kulkarni](dr) on [Sunday](date) at [09:00 am](time)
+- to [vasan Eye Care hospital](dr) on [Monday](date) at [10:00 am](time)
+- [vasan Eye Care hospital](dr) on [Wednesday](date) at [07:00 pm](time)
+- to [Dr.Neeta K Sambrani](dr) on [Wednesday](date) at [07:00 pm](time)
+- to [Dr. B R Jayasudha](dr) on [Tuesday](date) at [09:00 am](time)
+- to [Jaya Priya Hospital](dr) on [Tuesday](date) at [11:00 am](time)
+- [Manvi Multispeciality Hospital](dr) on [Tuesday](date)
+- to [vasan Eye Care hospital](dr) on [Friday](date) at [09:00 pm](time)
+- [Dr.Neeta K Sambrani](dr) on [Tuesday](date) at [11:00 am](time)
+- to [vasan Eye Care hospital](dr) on [Thursday](date) at [09:00 pm](time)
+- to [Dr.Girish K Nadiger](dr) on [Monday](date) at [09:00 pm](time)
+- [Manvi Multispeciality Hospital](dr) on [Wednesday](date) at [09:00 pm](time)
+- [Dr. Tavargeri S k](dr) on [Thursday](date) at [07:00 pm](time)
+- to [Dr. Sanjeev Kulkarni](dr) on [Friday](date) at [06:00 pm](time)
+- [Dr. B R Jayasudha](dr) on [Wednesday](date) at [12:00 am](time)
+- [Dr.Girish K Nadiger](dr) on [Tuesday](date)
+- [Dr.Girish K Nadiger](dr) on [Saturday](date) at [08:00 pm](time)
+- [Dr. A B Jadhav](dr) on [Tuesday](date) at [10:00 am](time)
+- to [M M Joshi Eye Institute](dr) on [Thursday](date) at [06:00 pm](time)
+- to [Jaya Priya Hospital](dr) on [Tuesday](date) at [09:00 pm](time)
+- [Dr. A B Jadhav](dr) on [Wednesday](date) at [09:00 am](time)
+- to [Dr. Sanjeev Kulkarni](dr) on [Saturday](date) at [09:00 pm](time)
+- [Dr.Neeta K Sambrani](dr) on [Thursday](date) at [06:00 pm](time)
+- to [Dr.R Krishna prasad](dr) on [Monday](date) at [08:00 pm](time)
+- with [Manvi Multispeciality Hospital](dr) on [Friday](date)
+- [Dr. Tavargeri S k](dr) on [Tuesday](date) at [08:00 pm](time)
+- [Dr. Tavargeri S k](dr) on [Saturday](date) at [08:00 pm](time)
+- to [Dr.Girish K Nadiger](dr) on [Wednesday](date) at [10:00 am](time)
+- [Dr. A B Jadhav](dr) on [Monday](date) at [06:00 pm](time)
+- [M M Joshi Eye Institute](dr) on [Saturday](date) at [12:00 am](time)
+- to [Dr. A B Jadhav](dr) on [Thursday](date) at [12:00 am](time)
+- [Manvi Multispeciality Hospital](dr) on [Tuesday](date) at [10:00 am](time)
+- to [Dr. A B Jadhav](dr) on [Monday](date) at [12:00 am](time)
+- with [Manvi Multispeciality Hospital](dr) on [Tuesday](date)
+- to [Manvi Multispeciality Hospital](dr) on [Sunday](date) at [07:00 pm](time)
+- [Manvi Multispeciality Hospital](dr) on [Saturday](date) at [10:00 am](time)
+- [Jaya Priya Hospital](dr) on [Tuesday](date) at [09:00 pm](time)
+- to [Dr. Tavargeri S k](dr) on [Friday](date) at [11:00 am](time)
+- to [Dr. B R Jayasudha](dr) on [Wednesday](date) at [08:00 pm](time)
+- to [M M Joshi Eye Institute](dr) on [Sunday](date) at [06:00 pm](time)
+- [Dr.Girish K Nadiger](dr) on [Sunday](date)
+- to [Dr. Tavargeri S k](dr) on [Tuesday](date) at [12:00 am](time)
+- [Dr.R Krishna prasad](dr) on [Saturday](date) at [11:00 am](time)
+- to [Dr.R Krishna prasad](dr) on [Saturday](date) at [11:00 am](time)
+- [Dr. Sanjeev Kulkarni](dr:dr . sanjeev kulkarni)
+- to [dentist](specialist)
+- to [Dermatologist](specialist)
+- with [surgeon](specialist)
+- to [Orthopaedic](specialist)
+- with [dentist](specialist)
+- with [Paediatrician](specialist)
+- [dentist](specialist)
+- to [dermatologist](specialist)
+- [Surgeon](specialist)
+- [dermatologist](specialist)
+- with [ophthalmologists](specialist)
+- [cardiologist](specialist)
+- to [Ophthalmologists](specialist)
+- with [Dentist](specialist)
+- [Orthopaedic](specialist)
+- with [physician](specialist)
+- to [Paediatrician](specialist)
+- [Dentist](specialist)
+- [Gynaecologists](specialist)
+- [paediatrician](specialist)
+- [Physician](specialist)
+- to [gastroentrologist](specialist)
+- to [orthopaedic](specialist)
+- [surgeon](specialist)
+- with [Orthopaedic](specialist)
+- [ophthalmologists](specialist)
+- [Paediatrician](specialist)
+- to [Gastroentrologist](specialist)
+- [Gastroentrologist](specialist)
+- [gastroentrologist](specialist)
+- [physician](specialist)
+- [gynaecologists](specialist)
+- with [ENT](specialist)
+- to [Physician](specialist)
+- with [Surgeon](specialist)
+- [Cardiologist](specialist)
+- with [Ophthalmologists](specialist)
+- with [gynaecologists](specialist)
+- [ent](specialist)
+- to [ophthalmologists](specialist)
+- [ENT](specialist)
+- with [paediatrician](specialist)
+- to [surgeon](specialist)
+- with [cardiologist](specialist)
+- [orthopaedic](specialist)
+- [Ophthalmologists](specialist)
+- with [Physician](specialist)
+- [Dermatologist](specialist)
+- with [Gynaecologists](specialist)
+- to [cardiologist](specialist)
+- with [ent](specialist)
+- with [Gastroentrologist](specialist)
+- to [Cardiologist](specialist)
+- to [ENT](specialist)
+- with [Cardiologist](specialist)
+- with [orthopaedic](specialist)
+- to [ent](specialist)
+- to [Gynaecologists](specialist)
+- to [physician](specialist)
+- with [gastroentrologist](specialist)
+- with [dermatologist](specialist)
+- to [Dentist](specialist)
+- to [Surgeon](specialist)
+- to [paediatrician](specialist)
+- to [gynaecologists](specialist)
+- with [Dermatologist](specialist)
+- [dentist](specialist)
+- to [dermatologist](specialist)
+- [Surgeon](specialist)
+- [dermatologist](specialist)
+- with [ophthalmologists](specialist)
+- [cardiologist](specialist)
+- to [Ophthalmologists](specialist)
+- with [Dentist](specialist)
+- [Orthopaedic](specialist)
+- with [physician](specialist)
+- to [Paediatrician](specialist)
+- [Dentist](specialist)
+- [Gynaecologists](specialist)
+- [paediatrician](specialist)
+- [Physician](specialist)
+- to [gastroentrologist](specialist)
+- to [orthopaedic](specialist)
+- [surgeon](specialist)
+- with [Orthopaedic](specialist)
+- [ophthalmologists](specialist)
+- [Paediatrician](specialist)
+- to [Gastroentrologist](specialist)
+- [Gastroentrologist](specialist)
+- [gastroentrologist](specialist)
+- [physician](specialist)
+- [gynaecologists](specialist)
+- with [ENT](specialist)
+- to [Physician](specialist)
+- with [Surgeon](specialist)
+- [Cardiologist](specialist)
+- with [Ophthalmologists](specialist)
+- with [gynaecologists](specialist)
+- [ent](specialist)
+- to [ophthalmologists](specialist)
+- [ENT](specialist)
+- with [paediatrician](specialist)
+- to [surgeon](specialist)
+- with [cardiologist](specialist)
+- [orthopaedic](specialist)
+- [Ophthalmologists](specialist)
+- with [Physician](specialist)
+- [Dermatologist](specialist)
+- with [Gynaecologists](specialist)
+- to [cardiologist](specialist)
+- with [ent](specialist)
+- with [Gastroentrologist](specialist)
+- to [Cardiologist](specialist)
+- to [ENT](specialist)
+- with [Cardiologist](specialist)
+- with [orthopaedic](specialist)
+- to [ent](specialist)
+- to [Gynaecologists](specialist)
+- to [physician](specialist)
+- with [gastroentrologist](specialist)
+- with [dermatologist](specialist)
+- to [Dentist](specialist)
+- to [Surgeon](specialist)
+- to [paediatrician](specialist)
+- to [gynaecologists](specialist)
+- with [Dermatologist](specialist)
+- [dentist](specialist)
+- book an [appointment](appointment) with [Dr. Krishna](dr:dr . krishna) [dentist](specialist) [tomorrow](date) at [3 pm](time) in \n[hubli](city)
+- thabks
+
+## intent:stop
+- that was shit, you're not helping
+- i guess you can't help me then
+- that's not what i want
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+- you can't help me
+- you can't help me with what i need
+- ok i guess you can't help me
+- ok, but that doesnt help me
+- ok then you cant help me
+- stop
+
+## synonym:dr . krishna
+- Dr. Krishna
+
+## synonym:dr . sanjeev kulkarni
+- Dr. Sanjeev Kulkarni

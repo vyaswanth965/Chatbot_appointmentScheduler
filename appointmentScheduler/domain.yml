@@ -1,0 +1,81 @@
+%YAML 1.1
+---
+actions:
+- utter_ask_continue
+- utter_bye
+- utter_chitchat
+- utter_confirmed
+- utter_greet
+- utter_iamabot
+- utter_reenter
+- utter_slots_values
+entities:
+- appointment
+- city
+- date
+- dr
+- specialist
+- time
+forms:
+- schedule_form
+intents:
+- greet
+- create_apt
+- affirm
+- stop
+- inform
+- bye
+- deny
+- chitchat
+- bot_challenge
+slots:
+  city:
+    type: text
+  date:
+    type: text
+  dr:
+    type: text
+  requested_slot:
+    type: unfeaturized
+  specialist:
+    type: text
+  time:
+    type: text
+templates:
+  utter_ask_city:
+  - text: In which city would you like to book appointment Hubli  or Dharwar?
+  - text: Please choose a city, Hubli or Dharwar?
+  utter_ask_continue:
+  - text: do you want to continue filling form?
+  utter_ask_date:
+  - text: on which day do you want to schedule this appointment?
+  - text: Ok, for what day?
+  utter_ask_dr:
+  - text: 'Here i found similar results: select doctor (Example : Dr. Krishna)'
+  utter_ask_specialist:
+  - text: Which specialist are you looking for?
+  - text: Please mention your specialist or Specialization?
+  utter_ask_time:
+  - text: please select the time?
+  - text: Ok, for what time?
+  utter_bye:
+  - text: My pleasure to help you
+  utter_chitchat:
+  - text: chitchat
+  utter_confirmed:
+  - text: Booked appointment !!!
+  - text: Done appointment booking !!!
+  utter_default:
+  - text: sorry, I didn't understand you, please try input something else
+  utter_greet:
+  - text: Hello, welcome to the Doctor Appointment Bot!
+  utter_iamabot:
+  - text: yes, I am a Doctor Appointment Bot, powered by Rasa.
+  utter_reenter:
+  - text: Please correct the wrong input
+  utter_slots_values:
+  - text: "I am going to book an appointment using the following parameters:\n - city:\
+      \ {city}\n - date: {date}\n - time: {time}\n - specialist: {specialist}\n -\
+      \ dr: {dr} \n Is it correct?"
+  utter_submit:
+  - text: All done
