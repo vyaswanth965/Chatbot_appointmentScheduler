@@ -1,5 +1,5 @@
 # Doctor-Appointment-Chatbot-using-Rasa
-It Schedules Doctor Appointment using Rasa Framework, Data is collected from cities of Maharashtra.
+It Schedules Doctor Appointment using Rasa Framework, Data is collected from cities of Karnataka.
 The data colleted is Real time data and bot helps in booking for appointment in Tier II cities.
 
 ## deployment
@@ -49,3 +49,14 @@ bot: My pleasure to help you
 https://github.com/mukesh0290/Doctor-Appointment-Chatbot-using-Rasa
 
 ![alt text](https://github.com/vyaswanth965/Chatbot_appointmentScheduler/blob/main/appointmentScheduler/Screenshot%20from%202019-10-16%2013-37-59.png)
+
+![alt text](https://github.com/vyaswanth965/Chatbot_appointmentScheduler/blob/main/appointmentScheduler/Screenshot%20from%202019-10-16%2013-38-11.png)
+
+![alt text](https://github.com/vyaswanth965/Chatbot_appointmentScheduler/blob/main/appointmentScheduler/Screenshot%20from%202019-10-16%2013-40-48.png)
+
+![alt text](https://github.com/vyaswanth965/Chatbot_appointmentScheduler/blob/main/appointmentScheduler/Screenshot%20from%202019-10-16%2013-40-59.png)
+
+![alt text](https://github.com/vyaswanth965/Chatbot_appointmentScheduler/blob/main/appointmentScheduler/Screenshot%20from%202019-10-16%2013-51-49.png)
+
+![alt text](https://github.com/vyaswanth965/Chatbot_appointmentScheduler/blob/main/appointmentScheduler/Screenshot%20from%202019-10-16%2013-55-35.png)
+
