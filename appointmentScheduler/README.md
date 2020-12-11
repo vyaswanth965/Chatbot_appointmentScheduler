@@ -45,8 +45,6 @@ user: thank you
 bot: My pleasure to help you
 
 
-#Reference
-https://github.com/mukesh0290/Doctor-Appointment-Chatbot-using-Rasa
 
 ![alt text](https://github.com/vyaswanth965/Chatbot_appointmentScheduler/blob/main/appointmentScheduler/Screenshot%20from%202019-10-16%2013-37-59.png)
 
